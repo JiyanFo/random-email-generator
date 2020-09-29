@@ -1,9 +1,7 @@
 import names
 import random
-from multiprocessing import Pool as ProcessPool
 from tqdm import tqdm
 
-n_processes = 150
 name_list = []
 domains = []
 emails = []
